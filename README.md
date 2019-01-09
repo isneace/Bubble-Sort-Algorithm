@@ -1,1 +1,1 @@
-# Lab8
+This is a program I wrote during my first semester of Lewis-Clark State College in my CS213 class.This program uses the bubble sort to sort a list alternating from right to left until it meets in the middle with a sorted list.
